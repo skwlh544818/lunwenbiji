@@ -87,12 +87,26 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5cdcf4447ccd9e38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adb29039471f8d0f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "a804681cd571c760",
   "lastOpenFiles": [
