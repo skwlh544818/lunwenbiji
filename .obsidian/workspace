@@ -74,7 +74,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -111,8 +111,11 @@
   "active": "a804681cd571c760",
   "lastOpenFiles": [
     "2021-09-03.md",
-    "Giotto.md",
+    "A3C.md",
+    "DDPG.md",
     "CODEX.md",
+    "未命名.md",
+    "Giotto.md",
     "组织切片多色荧光.md",
     "组织冰冻切片如何进行免疫荧光.md",
     "Untitled.md"
