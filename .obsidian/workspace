@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "组织冰冻切片如何进行免疫荧光.md",
+            "file": "Giotto.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "组织冰冻切片如何进行免疫荧光.md",
+                "file": "Giotto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,10 +110,10 @@
   },
   "active": "a804681cd571c760",
   "lastOpenFiles": [
-    "组织冰冻切片如何进行免疫荧光.md",
-    "组织切片多色荧光.md",
-    "CODEX.md",
     "Giotto.md",
+    "CODEX.md",
+    "组织切片多色荧光.md",
+    "组织冰冻切片如何进行免疫荧光.md",
     "Untitled.md"
   ]
 }
