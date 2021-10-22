@@ -1,15 +1,23 @@
 {
   "main": {
-    "id": "26ae261a6b34701f",
+    "id": "f088c483b634de8a",
     "type": "split",
     "children": [
       {
-        "id": "a804681cd571c760",
+        "id": "d92372cdbf3a01f7",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "901244d99fd285ea",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-09-03.md",
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source"
           }
         }
@@ -18,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d0fa7b644a3bb209",
+    "id": "169d066e4433dfb5",
     "type": "split",
     "children": [
       {
-        "id": "5c20fbbf97532714",
+        "id": "e3c9958962b7a876",
         "type": "tabs",
         "children": [
           {
-            "id": "aee5e44183abc4e5",
+            "id": "195943a9135d94e0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +42,12 @@
             }
           },
           {
-            "id": "139aa35cf5e6c1f1",
+            "id": "fa89f6210dc6405e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,54 +56,53 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "0a28869a6ad1a322",
+    "id": "4ef13240e1ff6f6b",
     "type": "split",
     "children": [
       {
-        "id": "d28e589184f08dc0",
+        "id": "9b16e4a358653072",
         "type": "tabs",
         "children": [
           {
-            "id": "bb92463071bd4212",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "2021-09-03.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4832c60fcb0e96a3",
+            "id": "cfbc18ae5c9b7006",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "e2f57743a90bd3dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       },
       {
-        "id": "c6cf2c2cd668f263",
+        "id": "a575f2c8ca7ed535",
         "type": "tabs",
         "children": [
           {
-            "id": "2287c215cbba5c1d",
+            "id": "eea64bef514582fe",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -106,18 +113,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297
+    "width": 300,
+    "collapsed": true
   },
-  "active": "a804681cd571c760",
+  "active": "901244d99fd285ea",
   "lastOpenFiles": [
-    "2021-09-03.md",
-    "A3C.md",
-    "DDPG.md",
-    "CODEX.md",
-    "未命名.md",
-    "Giotto.md",
-    "组织切片多色荧光.md",
-    "组织冰冻切片如何进行免疫荧光.md",
-    "Untitled.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
