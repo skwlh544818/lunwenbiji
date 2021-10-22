@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "c34f188e3549fb2c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Giotto.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,11 +119,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "901244d99fd285ea",
+  "active": "c34f188e3549fb2c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Giotto.md",
     "DDPG.md",
-    "conflict-files-obsidian-git.md",
     "CODEX.md",
     "A3C.md",
     "组织切片多色荧光.md",
