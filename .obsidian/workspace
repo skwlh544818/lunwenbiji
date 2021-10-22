@@ -1,10 +1,21 @@
 {
   "main": {
-    "id": "26ae261a6b34701f",
+    "id": "f088c483b634de8a",
     "type": "split",
     "children": [
       {
-        "id": "5390b36176d10672",
+        "id": "901244d99fd285ea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Giotto.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c34f188e3549fb2c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -18,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d0fa7b644a3bb209",
+    "id": "169d066e4433dfb5",
     "type": "split",
     "children": [
       {
-        "id": "5c20fbbf97532714",
+        "id": "e3c9958962b7a876",
         "type": "tabs",
         "children": [
           {
-            "id": "aee5e44183abc4e5",
+            "id": "195943a9135d94e0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +45,7 @@
             }
           },
           {
-            "id": "139aa35cf5e6c1f1",
+            "id": "fa89f6210dc6405e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,15 +66,23 @@
     "width": 300
   },
   "right": {
-    "id": "0a28869a6ad1a322",
+    "id": "4ef13240e1ff6f6b",
     "type": "split",
     "children": [
       {
-        "id": "d28e589184f08dc0",
+        "id": "9b16e4a358653072",
         "type": "tabs",
         "children": [
           {
-            "id": "bb92463071bd4212",
+            "id": "cfbc18ae5c9b7006",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2f57743a90bd3dc",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -78,24 +97,15 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "582fe16f9b96d20b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "f159b7dec631932e",
+        "id": "a575f2c8ca7ed535",
         "type": "tabs",
         "children": [
           {
-            "id": "6f23c3e976d96887",
+            "id": "eea64bef514582fe",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -106,17 +116,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "5390b36176d10672",
+  "active": "c34f188e3549fb2c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "DDPG.md",
     "Giotto.md",
+    "DDPG.md",
     "CODEX.md",
+    "A3C.md",
     "组织切片多色荧光.md",
     "组织冰冻切片如何进行免疫荧光.md",
-    "2021-09-03.md",
-    "Untitled.md"
+    "2021-09-03.md"
   ]
 }
