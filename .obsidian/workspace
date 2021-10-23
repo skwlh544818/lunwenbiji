@@ -9,17 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Giotto.md",
+            "file": "2021-09-03.md",
             "mode": "source"
           }
-        }
-      },
-      {
-        "id": "c34f188e3549fb2c",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -84,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2021-09-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +108,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c34f188e3549fb2c",
+  "active": "901244d99fd285ea",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "2021-09-03.md",
     "Giotto.md",
+    "conflict-files-obsidian-git.md",
     "DDPG.md",
     "CODEX.md",
     "A3C.md",
     "组织切片多色荧光.md",
-    "组织冰冻切片如何进行免疫荧光.md",
-    "2021-09-03.md"
+    "组织冰冻切片如何进行免疫荧光.md"
   ]
 }
