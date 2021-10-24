@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "6996852628a9b685",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -112,11 +123,11 @@
   "lastOpenFiles": [
     "Giotto.md",
     "conflict-files-obsidian-git.md",
+    "2021-09-03.md",
     "DDPG.md",
     "CODEX.md",
     "A3C.md",
     "组织切片多色荧光.md",
-    "组织冰冻切片如何进行免疫荧光.md",
-    "2021-09-03.md"
+    "组织冰冻切片如何进行免疫荧光.md"
   ]
 }
