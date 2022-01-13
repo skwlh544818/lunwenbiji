@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Giotto.md",
-            "mode": "source"
+            "file": "2021-09-03.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Giotto.md",
+                "file": "2021-09-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,18 +106,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "901244d99fd285ea",
   "lastOpenFiles": [
+    "2021-09-03.md",
     "Giotto.md",
     "DDPG.md",
     "CODEX.md",
     "A3C.md",
     "组织切片多色荧光.md",
     "组织冰冻切片如何进行免疫荧光.md",
-    "2021-09-03.md",
     "conflict-files-obsidian-git.md"
   ]
 }
