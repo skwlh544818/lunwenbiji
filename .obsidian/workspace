@@ -7,11 +7,9 @@
         "id": "901244d99fd285ea",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf-annotator",
           "state": {
-            "file": "强化学习+分类/未命名.md",
-            "mode": "source",
-            "source": false
+            "file": "强化学习+分类/未命名.md"
           }
         }
       }
@@ -53,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227
   },
   "right": {
     "id": "4ef13240e1ff6f6b",
@@ -62,7 +60,7 @@
       {
         "id": "9b16e4a358653072",
         "type": "tabs",
-        "dimension": 43.80368098159509,
+        "dimension": 43.803680981595086,
         "children": [
           {
             "id": "cfbc18ae5c9b7006",
@@ -94,7 +92,7 @@
       {
         "id": "a575f2c8ca7ed535",
         "type": "tabs",
-        "dimension": 56.19631901840491,
+        "dimension": 56.196319018404914,
         "children": [
           {
             "id": "eea64bef514582fe",
@@ -108,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 215
   },
   "active": "901244d99fd285ea",
   "lastOpenFiles": [
